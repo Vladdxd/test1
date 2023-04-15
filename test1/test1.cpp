@@ -29,6 +29,7 @@ int main()
 	}
 	cout << "Сума = " << sum << "| Кількість ітерацій=" << iterations;
 	cout << "CHANGE2";
+	cout << "task12";
 }
 
 
