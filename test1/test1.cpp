@@ -28,8 +28,9 @@ int main()
 		iterations++;
 	}
 	cout << "Сума = " << sum << "| Кількість ітерацій=" << iterations;
-	cout << "CHANGE2";
-	cout << "task12";
+	cout << "CHANGE2"<<endl;
+	cout << "task12"<< endl;
+	cout << "Result" << endl;
 }
 
 
